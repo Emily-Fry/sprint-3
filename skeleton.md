@@ -1,0 +1,2 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+The @media (min-width: 400px) query would be engaged so the conent would resize for a smaller screen. 
